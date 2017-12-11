@@ -8,11 +8,11 @@ void Song:: setname (string name)
     {
     m_name = name; 
     }
-void Song:: setlength (double)
+void Song:: setlength (double length)
     {
     m_length = length;
     }
-void Song:: setgenre (string)
+void Song:: setgenre (string genre)
     {
     m_genre = genre;
     }
